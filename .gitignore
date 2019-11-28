@@ -1,0 +1,11 @@
+# rider ide
+.git/
+.idea/
+
+# bin, obj
+
+DesignPatternPractice/bin/
+DesignPatternPractice/obj/
+
+# macos
+*.Ds_Store
